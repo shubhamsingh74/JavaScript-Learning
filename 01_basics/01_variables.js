@@ -19,13 +19,14 @@ console.log(accountEmail)
 accountPassword="12"      //this can be allowed
  console.log(accountPassword)
 
-accountCity ="dubai"          //this can be allowed
+accountCity ="dubai" //this can be allowed
 // console.log(accountCity)
 
 
 
 console.table([
-    accountId,accountEmail,accountPassword,accountCity,accountState
+    accountId,accountEmail,accountPassword,accountCity,accountState,
+    "shubham"
 ])
 
 /*
