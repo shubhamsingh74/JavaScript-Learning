@@ -29,6 +29,14 @@ console.table([
     "shubham"
 ])
 
+if (accountCity=="dubai") {
+    console.log("Hogya bhai") 
+}else{
+    console.log("nhi hua bhai")
+}
+
+console.table(["shubham singh","shubham singh hai naa mera"])
+
 /*
 prefer not to use var  never
 because of the issue in block scope and functional scope
